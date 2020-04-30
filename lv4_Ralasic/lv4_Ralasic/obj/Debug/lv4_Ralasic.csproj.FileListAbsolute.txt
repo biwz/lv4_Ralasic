@@ -1,0 +1,7 @@
+C:\Users\john\Desktop\lv4_RPPOON\lv4_Ralasic\lv4_Ralasic\bin\Debug\lv4_Ralasic.exe.config
+C:\Users\john\Desktop\lv4_RPPOON\lv4_Ralasic\lv4_Ralasic\bin\Debug\lv4_Ralasic.exe
+C:\Users\john\Desktop\lv4_RPPOON\lv4_Ralasic\lv4_Ralasic\bin\Debug\lv4_Ralasic.pdb
+C:\Users\john\Desktop\lv4_RPPOON\lv4_Ralasic\lv4_Ralasic\obj\Debug\lv4_Ralasic.csprojAssemblyReference.cache
+C:\Users\john\Desktop\lv4_RPPOON\lv4_Ralasic\lv4_Ralasic\obj\Debug\lv4_Ralasic.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\lv4_RPPOON\lv4_Ralasic\lv4_Ralasic\obj\Debug\lv4_Ralasic.exe
+C:\Users\john\Desktop\lv4_RPPOON\lv4_Ralasic\lv4_Ralasic\obj\Debug\lv4_Ralasic.pdb
